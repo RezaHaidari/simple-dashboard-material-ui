@@ -1,0 +1,29 @@
+{
+  "data" : [
+    {
+        "name": "Oraganization",
+        "url": "/item1"
+    },
+    {
+      "name": "Integration",
+      "url": "/item2"
+    },
+    {
+      "name": "Download center",
+      "children": [
+        {
+          "name": "Option 1",
+          "url": "/child31"
+        },
+        {
+          "name": "Option 2",
+          "url": "/child32"
+        },
+        {
+          "name": "Option 3",
+          "url": "/child32"
+        }
+      ]
+    }
+  ]
+}
